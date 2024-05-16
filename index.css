@@ -1,6 +1,6 @@
 form{
     width:45%;
-    height: 500px;
+    
    
     margin: 0 auto;
     padding: 5% 20%;
@@ -35,14 +35,7 @@ a{
 #middle-text{
     padding-left:30%;
 }
-.google-image{
-    width: 40px;
-    height: 40px;
-    padding-bottom: 13px;
-}
-.facebook-image{
-    width: 70px;
-}
+
 .logos{
     
     padding-left: 40%;
